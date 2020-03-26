@@ -64,3 +64,9 @@
 
 6. 钩瘾架构理论（Hook Framework），能帮助我们想出让用户上瘾的数字服务或产品钩瘾画布（The Hook Canvas）是以四个要素为基础：触发（Trigger）、行动（Action）、奖励（Reward）和投入（Investment）。对于潜在用户而言，触发行动的因子可分为两种：来自外部环境的外在触发因子和内在触发因子。对用户来说，奖励是关键的情感要素。
 ![钩瘾](https://github.com/DLIERBA/product-manager/raw/master/images/%E9%92%A9%E7%98%BE%E7%94%BB%E5%B8%83.png)
+
+7. 用户界面的三个关键问题：
++ 有效性（effectiveness）：它是否去做了对的事？它有完成重要的事情吗？（Does it do the right thing? Does it get things done?）
++ 效率（efficiency）：它是否以最小的精力、最小的脑力、最小的体力来做到这一点？（Does it do that with a minimum effort?）
++ 满意度（satisfaction）：它会让您感觉良好吗？使用这个系统或软件您感到高兴吗？（Does it make you feel good? Do you feel happy?）
+在某些方面满意程度可能变得比其他两点更为重要。
