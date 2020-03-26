@@ -56,6 +56,11 @@
 
 3. 用户画像绝对有必要以真人、观察和访谈三大元素为基础。
 
-4. 检视用户画像——AEIOU法：使用AEIOU法列出问题，有助于让观察更完整、更具系统。透过这些问题，就能在最短时间找到正确的目标，建立行动纲领。
+4. 使用者素描画布
+![使用者素描画布](https://github.com/DLIERBA/product-manager/raw/master/images/%E4%BD%BF%E7%94%A8%E8%80%85%E7%B4%A0%E6%8F%8F%E7%94%BB%E5%B8%83.png)
 
-5. 钩瘾架构理论（Hook Framework），能帮助我们想出让用户上瘾的数字服务或产品钩瘾画布（The Hook Canvas）是以四个要素为基础：触发（Trigger）、行动（Action）、奖励（Reward）和投入（Investment）。对于潜在用户而言，触发行动的因子可分为两种：来自外部环境的外在触发因子和内在触发因子。对用户来说，奖励是关键的情感要素。
+5. 检视用户画像——AEIOU法：使用AEIOU法列出问题，有助于让观察更完整、更具系统。透过这些问题，就能在最短时间找到正确的目标，建立行动纲领。
+![AEIOU](https://github.com/DLIERBA/product-manager/raw/master/images/AEIOU.png)
+
+6. 钩瘾架构理论（Hook Framework），能帮助我们想出让用户上瘾的数字服务或产品钩瘾画布（The Hook Canvas）是以四个要素为基础：触发（Trigger）、行动（Action）、奖励（Reward）和投入（Investment）。对于潜在用户而言，触发行动的因子可分为两种：来自外部环境的外在触发因子和内在触发因子。对用户来说，奖励是关键的情感要素。
+![钩瘾](https://github.com/DLIERBA/product-manager/raw/master/images/%E9%92%A9%E7%98%BE%E7%94%BB%E5%B8%83.png)
